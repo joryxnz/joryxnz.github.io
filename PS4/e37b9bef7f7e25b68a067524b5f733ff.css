@@ -1,0 +1,13 @@
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(https://kianmortimer.github.io/PS4/base06_JoryxGIF4.gif);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+.ds4.disconnected {
+    background: url(https://kianmortimer.github.io/PS4/disconnected05_ahegao.png);
+}
+/*END PS4 Controller Styling*/

@@ -1,0 +1,65 @@
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(https://kianmortimer.github.io/PS4/base05_ahegao.gif);
+    height: 598px;
+    width: 806px;
+    /*    margin-left: -403px;
+        margin-top: -280px;*/
+}
+
+.ds4.disconnected {
+    background: url(https://kianmortimer.github.io/PS4/disconnected05_ahegao.png);
+}
+
+.ds4 .face {     
+  background: url(https://kianmortimer.github.io/PS4/dpad05_ahegao.png);
+  position: absolute;
+}
+
+.ds4 .face.pressed {
+    /* margin-top: 5px; */
+    background-position-y: 52px;
+}
+
+.ds4 .button {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    background: url(https://kianmortimer.github.io/PS4/face05_ahegao.png);
+}
+
+.ds4 .button.pressed {
+    background-position-y: 55px;
+    /* margin-top: 5px; */
+}
+
+.ds4 .a {
+    background-position: 0 0;
+    bottom: 0;
+    left: 58px;
+}
+
+.ds4 .b {
+    background-position: -57px 0;
+    top: 58px;
+    right: 0px;
+}
+
+.ds4 .x {
+    background-position: -113px 0;
+    top: 58px;
+}
+
+.ds4 .y {
+    background-position: 55px 0;
+    left: 58px;
+}
+
+.ds4 .stick {
+    position: absolute;
+    background: url(https://kianmortimer.github.io/PS4/sticks05_ahegao.png);
+    height: 94px;
+    width: 94px;
+}
+
+/*END PS4 Controller Styling*/
