@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(https://kianmortimer.github.io/PS4/base06_JoryxGIF4.gif);
+    background: url(https://joryxnz.github.io/PS4/base06_JoryxGIF4.gif);
     height: 598px;
     width: 806px;
     /*    margin-left: -403px;
@@ -8,6 +8,14 @@
 }
 
 .ds4.disconnected {
-    background: url(https://kianmortimer.github.io/PS4/disconnected05_ahegao.png);
+    background: url(https://joryxnz.github.io/PS4/disconnected05_ahegao.png);
 }
+
+.ds4 .stick {
+    position: absolute;
+    background: url(https://joryxnz.github.io/PS4/sticks05_ahegao.png);
+    height: 94px;
+    width: 94px;
+}
+
 /*END PS4 Controller Styling*/
